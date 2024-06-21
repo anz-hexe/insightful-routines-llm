@@ -1,0 +1,17 @@
+name: insightful-routines-llm
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pip
+  - python=3.11
+  - ipython=8.25.0
+  - ipykernel=6.29.4
+  - pip:
+    - ollama
+    - matplotlib
+    - langchain==0.2.5
+    - langchain-community==0.2.5
+    - langchain_chroma
+    - bs4
+    - langchainhub
