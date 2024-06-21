@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+1.ipynb
+chroma_storage/
+
+
 # C extensions
 *.so
 
