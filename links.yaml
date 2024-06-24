@@ -1,3 +1,13 @@
-links:
-  - "https://www.informedhealth.org/acne-do-lotions-tablets-or-light-based-treatment-help.html"
-  - "https://www.informedhealth.org/acne-do-lotions-tablets-or-light-based-treatment-help.html"
+sites:
+  site_1:
+    blocks:
+      - topic__main
+    links:
+      - "https://www.informedhealth.org/acne-do-lotions-tablets-or-light-based-treatment-help.html"
+      - "https://www.informedhealth.org/acne-do-lotions-tablets-or-light-based-treatment-help.html"
+  site_2:
+    blocks:
+      - tsec sec
+    links:
+      - "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5947266/"
+      - "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7847434/"
